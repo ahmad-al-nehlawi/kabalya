@@ -7,7 +7,7 @@ int main()
 cout<<"Programm was made by Great Anton Zhabotinskyi and GREAT AhmaDICK Nehlavi";
         cout << "Enter operator: +, -, *, /: ";
         cin >> op;
-
+        cin << oppo;
         cout << "Enter 1 number: ";
         cin >> num1 ;  
          cout << "Enter 2 number: ";
@@ -26,7 +26,7 @@ cout<<"Programm was made by Great Anton Zhabotinskyi and GREAT AhmaDICK Nehlavi"
         case '*':
             cout << num1 << " * " << num2 << " = " << num1 * num2;
             break;
-
+         
         case '/':
             cout << num1 << " / " << num2 << " = " << num1 / num2;
             break;
