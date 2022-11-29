@@ -7,7 +7,7 @@ int main()
 cout<<"Programm was made by Great Anton Zhabotinskyi and GREAT AhmaDICK Nehlavi";
         cout << "Enter operator: +, -, *, /: ";
         cin >> op;
-        cin << oppo;
+       
         cout << "Enter 1 number: ";
         cin >> num1 ;  
          cout << "Enter 2 number: ";
